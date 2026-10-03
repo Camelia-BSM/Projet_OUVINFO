@@ -30,9 +30,9 @@ __Listes de tâches :__
 - [ OK ] Réaliser le niveau 3 en conservant la même série d'action
 - [ OK  ] Réaliser un menu de fin/début et un menu en cas de game over
 - [ OK ] Finir le jeu le 18 mai
-- [ ] Organisation de l'oral à finir le 20 mai
-- [ ] Répétition orale le jeudi 21 mai
-- [ ] Rapport à faire entre le 21 et le 27
-- [ ] Présenter le projet le 27 mai 
+- [ OK ] Organisation de l'oral à finir le 20 mai
+- [ OK] Répétition orale le jeudi 21 mai
+- [ OK ] Rapport à faire entre le 21 et le 27
+- [ OK ] Présenter le projet le 27 mai 
  
 
