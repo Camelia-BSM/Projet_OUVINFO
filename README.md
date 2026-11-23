@@ -1,6 +1,3 @@
-<img width="1327" height="676" alt="Capture d’écran 2026-11-23 à 18 57 56" src="https://github.com/user-attachments/assets/66a0cf42-ae96-4ccb-b0c3-adc405420a9d" />
-<img width="1336" height="668" alt="Capture d’écran 2026-11-23 à 18 57 48" src="https://github.com/user-attachments/assets/dcf796ed-0c7d-47ed-a877-a37faf0d87af" />
-<img width="1297" height="658" alt="Capture d’écran 2026-11-23 à 18 56 57" src="https://github.com/user-attachments/assets/d6a10062-06f8-4ff0-9c09-1c0da8bff4be" />
 # Projet_OUVINFO
 Projet d'ouverture informatique
 
@@ -37,5 +34,10 @@ __Listes de tâches :__
 - [ OK] Répétition orale le jeudi 21 mai
 - [ OK ] Rapport à faire entre le 21 et le 27
 - [ OK ] Présenter le projet le 27 mai 
- 
+
+ Images du jeu : 
+
+<img width="1327" height="500" alt="Capture d’écran 2026-11-23 à 18 57 56" src="https://github.com/user-attachments/assets/66a0cf42-ae96-4ccb-b0c3-adc405420a9d" />
+<img width="1336" height="668" alt="Capture d’écran 2026-11-23 à 18 57 48" src="https://github.com/user-attachments/assets/dcf796ed-0c7d-47ed-a877-a37faf0d87af" />
+<img width="1297" height="658" alt="Capture d’écran 2026-11-23 à 18 56 57" src="https://github.com/user-attachments/assets/d6a10062-06f8-4ff0-9c09-1c0da8bff4be" />
 
