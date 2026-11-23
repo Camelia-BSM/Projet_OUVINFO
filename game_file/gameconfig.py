@@ -42,29 +42,29 @@ class Gameconfig:
     def init():
         pygame.font.init()
         Gameconfig.WALK_RIGHT_IMG = [ 
-                                    pygame.image.load("../img_file/princesseright1.png").convert_alpha(),
-                                    pygame.image.load('../img_file/princesseright2.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseright3.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseright4.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseright5.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseright6.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseright7.png').convert_alpha()]
+                                    pygame.image.load("img_file/princesseright1.png").convert_alpha(),
+                                    pygame.image.load('img_file/princesseright2.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseright3.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseright4.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseright5.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseright6.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseright7.png').convert_alpha()]
         
         Gameconfig.WALK_LEFT_IMG = [
-                                    pygame.image.load("../img_file/princesseleft1.png").convert_alpha(),
-                                    pygame.image.load('../img_file/princesseleft2.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseleft3.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseleft4.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseleft5.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseleft6.png').convert_alpha(),
-                                    pygame.image.load('../img_file/princesseleft7.png').convert_alpha()]
+                                    pygame.image.load("img_file/princesseleft1.png").convert_alpha(),
+                                    pygame.image.load('img_file/princesseleft2.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseleft3.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseleft4.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseleft5.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseleft6.png').convert_alpha(),
+                                    pygame.image.load('img_file/princesseleft7.png').convert_alpha()]
         
         Gameconfig.STANDING_IMG = [
-                                    pygame.image.load('../img_file/princesseright1.png').convert_alpha()
+                                    pygame.image.load('img_file/princesseright1.png').convert_alpha()
                                     
                                     ]
         
-        Gameconfig.PRINCE_IMG = pygame.image.load("../img_file/prince.png").convert_alpha()
+        Gameconfig.PRINCE_IMG = pygame.image.load("img_file/prince.png").convert_alpha()
         
         Gameconfig.WALK_RIGHT_MASKS = [] 
         Gameconfig.WALK_LEFT_MASKS = []

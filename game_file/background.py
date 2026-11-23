@@ -8,19 +8,19 @@ class BG (pygame.sprite.Sprite):
     def __init__(self):
         
         self.counter_niveau = 5 #Variable qui sert à compter les niveaux et pour l'affichage
-        self.image = [pygame.image.load("../img_file/niv.png").convert(),
-                    pygame.image.load("../img_file/l.png").convert(),
-                    pygame.image.load("../img_file/level_33.png").convert(),
-                    pygame.image.load("../img_file/perdu.png").convert(),
-                    pygame.image.load("../img_file/ee.png").convert(),
-                    pygame.image.load("../img_file/skin2.png").convert(),
-                    pygame.image.load("../img_file/jeu.png").convert(), 
-                    pygame.image.load("../img_file/final.png").convert_alpha(),
-                    pygame.image.load("../img_file/level_findejeu.png").convert(),
-                    pygame.image.load("../img_file/image_fin.png").convert(),
-                    pygame.image.load("../img_file/bouton_fin4.png").convert(),
-                    pygame.image.load("../img_file/final2.png").convert(),
-                    pygame.image.load("../img_file/bouton_fin_survol.png").convert()]
+        self.image = [pygame.image.load("img_file/niv.png").convert(),
+                    pygame.image.load("img_file/l.png").convert(),
+                    pygame.image.load("img_file/level_33.png").convert(),
+                    pygame.image.load("img_file/perdu.png").convert(),
+                    pygame.image.load("img_file/ee.png").convert(),
+                    pygame.image.load("img_file/skin2.png").convert(),
+                    pygame.image.load("img_file/jeu.png").convert(), 
+                    pygame.image.load("img_file/final.png").convert_alpha(),
+                    pygame.image.load("img_file/level_findejeu.png").convert(),
+                    pygame.image.load("img_file/image_fin.png").convert(),
+                    pygame.image.load("img_file/bouton_fin4.png").convert(),
+                    pygame.image.load("img_file/final2.png").convert(),
+                    pygame.image.load("img_file/bouton_fin_survol.png").convert()]
         self.click = 0
         self.start_click = 0
         self.rectbutton = [
@@ -38,17 +38,17 @@ class BG (pygame.sprite.Sprite):
                           pygame.Rect(310,220,40,64), #Pour le prince
                           ]
         self.imgcle = [
-            pygame.image.load("../img_file/cle0.png"),
-            pygame.image.load("../img_file/cle1.png"),
-            pygame.image.load("../img_file/cle2.png"),
-            pygame.image.load("../img_file/cle3.png")
+            pygame.image.load("img_file/cle0.png"),
+            pygame.image.load("img_file/cle1.png"),
+            pygame.image.load("img_file/cle2.png"),
+            pygame.image.load("img_file/cle3.png")
         ]
         self.start = 0
         self.vie = 3
         self.rectvie = pygame.Rect(240, 10, 250, 60)
         
         
-        self.image_prince = pygame.image.load("../img_file/prince2.png")
+        self.image_prince = pygame.image.load("img_file/prince2.png")
         
         
 

@@ -21,7 +21,7 @@ class Cle:
             pygame.Rect(1150, 270, 50, 20), #cle2
             pygame.Rect(1330, 110, 50, 20) #cle3
         ]
-        self.img = pygame.image.load("../img_file/clered.png")
+        self.img = pygame.image.load("img_file/clered.png")
     
     #note, pour dessiner sur une surfac e: surface.blit(image, (x,y))
     def draw(self, window, seuil):
